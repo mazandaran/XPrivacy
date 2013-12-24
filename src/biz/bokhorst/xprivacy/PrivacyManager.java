@@ -121,7 +121,7 @@ public class PrivacyManager {
 	// Constants
 	public final static int cXposedAppProcessMinVersion = 46;
 	public final static int cAndroidUid = Process.SYSTEM_UID;
-	public final static boolean cTestVersion = true;
+	public final static boolean cTestVersion = false;
 
 	private final static String cDeface = "DEFACE";
 	public final static int cRestrictionCacheTimeoutMs = 15 * 1000;
